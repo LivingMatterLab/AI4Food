@@ -1,0 +1,75 @@
+["butter", "slice", 7]
+["lemon", "-", 58]
+["chili", "-", 45]
+["chili", "slice", 9] # Just divided one whole chili by 5 as an approx
+["onion", "-", 110]
+["onion", "slice", 38]
+["olive", "-", 3.8] # average of 3.2 and 4.4 from usda
+["parsley", "bunch", 57] # https://www.allrecipes.com/article/how-much-is-a-bunch-of-herbs/#:~:text=Larger%2Dleafed%20varieties%2C%20like%20mint,ounce%20qualifies%20as%20a%20bunch.)
+["parsley", "sprig", 10]
+["garlic", "clove", 3]
+["bun", "-", 52] # USDA, alfred bakery bun
+["cucumber", "-", 301]
+["egg", "-", 44]
+["jalapeno", "-", 14]
+["celery", "stalk", 40]
+["tomato", "-", 123]
+["tomato", "slice", 20]
+["other cheese", "slice", 21]
+["patty", "-", 60]
+["mozzarella", "slice", 28.33]
+["bacon", "slice", 28]
+["ginger", "in", 8] # https://www.nutritionix.com/i/usda/ginger-root-raw-1-inch/599c9521d77e76f01e33738a
+["cheddar cheese", "slice", 21]
+["mushroom", "-", 18]
+["mushroom", "slice", 6]
+["pickle", "-", 65]
+["pickle", "slice", 7]
+["basil", "leaf", 0.5]
+["oregano", "bunch", 57] # same source as parsley
+["oregano", "sprig", 10] # same as parsley
+["potato", "-", 213]
+["chicken", "breast", 290]
+["cabbage", "head", 840]
+["apple", "-", 200]
+["lettuce", "leaf", 8]
+["lettuce", "head", 539]
+["pork", "slice", 60] # This is actually ham
+["monterey jack", "slice", 21]
+["blue cheese", "slice", 21]
+["portobello", "-", 84]
+["gouda", "slice", 21]
+["dill", "bunch", 57]
+["spinach", "leaf", 10]
+["carrot", "-", 61]
+["chive", "leaf", 1] # Just an assumption
+["rosemary", "bunch", 28] # https://www.allrecipes.com/article/how-much-is-a-bunch-of-herbs/#:~:text=Larger%2Dleafed%20varieties%2C%20like%20mint,ounce%20qualifies%20as%20a%20bunch.)
+["rosemary", "sprig", 3] # https://www.nutritionix.com/i/usda/rosemary-fresh-1-sprig/5988c97502b09f7d58dccf0c#:~:text=USDA.%20sprig%20(3g%20)
+["thyme", "leaf", 1] # Just an assumption
+["provolone", "slice", 21]
+["fish", "fillet", 318] # pink salmon from usda
+["chip", "-", 2] # https://now.tufts.edu/2021/12/10/choosing-and-crunching-healthier-chips#:~:text=Watch%20serving%20sizes:%20The%20numbers,around%20seven%20to%2015%20chips.
+["tortilla", "-", 30] # 1 30 gr tortilla from https://recipeland.com/ingredients/flour-tortillas-8245
+["avocado", "-", 136]
+["avocado", "slice", 15] # https://www.nutritionvalue.org/Avocado%2C_raw_63105010_nutritional_value.html
+["green onion", "in", 1.66] # https://www.hanna-one.com/weightgreenonion.html
+["green onion", "bunch", 90] # https://www.hanna-one.com/weightgreenonion.html
+["green onion", "-", 15] # https://www.hanna-one.com/weightgreenonion.html
+["pineapple", "slice", 84]
+["cracker", "-", 12.7] # Goya crackers from usda
+["sage", "bunch", 57]
+["shallot", "-", 43] # Nutritionix
+["cilantro", "bunch", 57]
+["zucchini", "-", 196]
+["goat cheese", "slice", 21]
+["lime", "-", 67]
+["dough", "loaf", 52] # Use the same as a bun, but this is super weird
+["beet", "-", 82]
+["beet", "slice", 8] # https://nutrifox.com/nutrition/beets-canned-drained-solids
+["orange", "-", 141]
+["mango", "-", 336]
+["chipotle chili", "-", 45] # same as chili
+["arugula", "leaf", 2]
+["arugula", "bunch", 57]
+["bouillon", "-", 3.6]
+["turkey", "slice", 16]
