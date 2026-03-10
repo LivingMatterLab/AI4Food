@@ -1,6 +1,6 @@
 # AI4Meatballs #
-"The Meatball Matchup: Plant vs. Animal Proteins on Campus" (https://doi.org/10.64898/2026.03.05.709981)
-_Authors_: Skyler St. Piere, Aeneas Koosis, Nancy Zhang, Ellen Kuhl
+"The Meatball Matchup: Plant vs. Animal Proteins on Campus" (https://doi.org/10.64898/2026.03.05.709981) \
+_Authors_: Skyler St. Pierre, Aeneas Koosis, Nancy Zhang, Ellen Kuhl
 
 ## Texture Profile Analysis ##
 1. Raw data from 2 plant and 2 animal-based meatballs
