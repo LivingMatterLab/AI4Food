@@ -1,4 +1,4 @@
-### AI4Food Repository ###
+# AI4Food Repository #
 Please cite "AI for food: accelerating and democratizing discovery and innovation" [https://doi.org/10.1038/s41538-025-00441-8] when using this repository 
 in addition to the relevent papers for each dataset.
 
