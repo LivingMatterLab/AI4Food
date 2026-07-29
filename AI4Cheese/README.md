@@ -17,12 +17,3 @@ python analysis.py
 ```
 
 Requirements: Python 3.10+, pandas, NumPy, and SciPy.
-
-## Privacy
-
-Direct identifiers, survey metadata, dates, free text, demographics, attitudes,
-and source record numbers are excluded. 
-
-This release includes completed sensory, TPA, and frequency-sweep rheology
-work. Unfinished CANN, tension, and additional shear/compression work is not
-included.
