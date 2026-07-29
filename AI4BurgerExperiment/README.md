@@ -21,8 +21,3 @@ python analysis.py
 
 Requirements: Python 3.10+, pandas, NumPy, and SciPy.
 
-## Privacy
-
-Direct identifiers, survey metadata, dates, free text, demographics, behavioral
-fields, source record numbers, and stable participant IDs are excluded. The
-consumer rows are randomly ordered. Instrument sample IDs are newly randomized.
