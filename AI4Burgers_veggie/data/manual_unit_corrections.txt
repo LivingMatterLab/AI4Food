@@ -1,0 +1,8 @@
+[9,3,[30, 'gr', 'breadcrumb']]
+[168,8,[3, 'cup', 'water']]
+[182,7,-2]
+[257,6,[2, 'drop', 'hot sauce']]
+[287,4,[1.0, 'bunch', 'parsley']]
+[296,6,['nan', 'na', 'oil']]
+[321,2,['nan', 'na', 'breadcrumb']]
+[331,4,[0.5, 'tsp', 'oregano']]
