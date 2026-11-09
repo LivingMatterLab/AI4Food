@@ -19,3 +19,8 @@ Citation: "Emmergent symmetry in mushroom-based foods" (https://doi.org/10.1016/
 ### CANN
 - fungi_transverseisotropic_cann.py: Transversely isotropic constitutive neural network code
 - CANNs_Fungi_Data.xlsx: Data to run CANN code with
+
+## AI4Dairy ##
+"Open-source benchmarking of dairy and dairy-free products" (under revision at Future Foods)
+
+De-identified consumer sensory data and analysis code for ten dairy benchmarks and ten dairy-free leaders. See AI4Dairy/README.md.

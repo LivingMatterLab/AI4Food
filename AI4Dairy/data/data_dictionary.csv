@@ -1,0 +1,247 @@
+product,question_type,modality,question,n_responses
+,Demographic,Gender,Which gender do you identify as?,1437
+,Demographic,Age,What is your age?,1437
+,Demographic,Diet,What is your dietary preference?,1437
+,Demographic,Consumption Frequency,How often do you drink lattes of any kind?,361
+Barista Milk Animal Benchmark,Likert,Appearance,How would you rate the appearance of the milk in latte 334?,211
+Barista Milk Plant-based Leader,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of the milk in latte 859?,108
+,Multiple Choice,van-westendorp,At what price would a gallon 64oz package of dairyfree milk start to become expensive but youd still purchase it?,211
+Barista Milk Plant-based Leader,Likert,Flavor,How would you rate the flavor of the milk in latte 859?,108
+Barista Milk Animal Benchmark,Likert,Overall Liking,How would you rate your overall liking of the milk in latte 334?,211
+Barista Milk Animal Benchmark,Likert,Similarity,How similar is the milk in latte 334 to dairybased milk?,211
+Barista Milk Animal Benchmark,CATA,Appearance,Please check all the words or phrases that describe the appearance of the milk in latte 334?,211
+Barista Milk Animal Benchmark,Likert,Flavor,How would you rate the flavor of the milk in latte 334?,211
+Barista Milk Animal Benchmark,CATA,Flavor,Please check all the words or phrases that describe the flavor of the milk in latte 334?,211
+Barista Milk Animal Benchmark,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of the milk in latte 334?,211
+Barista Milk Animal Benchmark,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of the milk in latte 334?,211
+Barista Milk Plant-based Leader,Likert,Overall Liking,How would you rate your overall liking of the milk in latte 859?,108
+Barista Milk Plant-based Leader,Likert,Similarity,How similar is the milk in latte 859 to dairybased milk?,108
+Barista Milk Plant-based Leader,Likert,Appearance,How would you rate the appearance of the milk in latte 859?,108
+Barista Milk Plant-based Leader,CATA,Appearance,Please check all the words or phrases that describe the appearance of the milk in latte 859?,108
+Barista Milk Plant-based Leader,CATA,Flavor,Please check all the words or phrases that describe the flavor of the milk in latte 859?,108
+Barista Milk Plant-based Leader,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of the milk in latte 859?,108
+,Multiple Choice,van-westendorp,At what price would a gallon 64oz package of dairyfree milk start to be considered a bargain great buy?,211
+,Multiple Choice,,Which sources have been most influential in forming your opinions about dairyfree milk?,211
+,Multiple Choice,,Which of these names are most appealing?,211
+Barista Milk Animal Benchmark,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase the milk in latte 334?,211
+Barista Milk Plant-based Leader,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase the milk in latte 859?,108
+,Demographic,Shops Based on Animal Welfare,I actively shop for food products that are better for animal welfare?,1434
+,Demographic,Shops Based on Health,I actively shop for food products that are healthier?,1434
+,Demographic,Desired Consumption Change,What change if any would you like to see for your dairybased milk consumption?,1434
+,Demographic,Dairy Free Health Drivers,What are the top reasons you consider dairyfree milk to be healthier than dairybased milk?,720
+,Demographic,Compare Price,Compare the price of dairyfree milk with dairybased milk?,1434
+,Demographic,Compare Taste,Compare the taste of dairyfree milk with dairybased milk?,1434
+,Demographic,Compare Health,Compare the health of dairyfree milk with dairybased milk?,1434
+,Demographic,Dairy Based Health Drivers,What are the top reasons you consider dairybased milk to be healthier than dairyfree milk?,464
+,Demographic,Compare Environmental Impact,Compare the impact on the environment of dairyfree milk with dairybased milk?,1434
+,Demographic,Compare Animal Welfare,Compare the impact on animal welfare of dairyfree milk with dairybased milk?,1434
+,Demographic,Education,What is the highest degree or level of education you have completed?,1434
+,Demographic,Kids in HH,Do you have any kids in your household?,1434
+,Demographic,Current Consumption Comparison,How would you compare your consumption of dairybased milk and dairyfree milk?,1434
+,Demographic,Shops Based on Taste,I actively shop for food products that taste better?,1434
+,Demographic,Shops Based on Price,I actively shop for food products that are better priced?,1434
+,Demographic,Shops Based on Familiarity,I typically buy the same food products again and again without looking for alternatives?,1434
+,Demographic,Shops Based on Environment,I actively shop for food products that are better for the environment?,1434
+Cheddar Animal Benchmark,Likert,Similarity,How similar is cheddar 674 to dairybased cheddar?,207
+Cheddar Animal Benchmark,Likert,Flavor,How would you rate the flavor of cheddar 674?,207
+,Multiple Choice,van-westendorp,At what price would a 8oz package of dairyfree cheddar start to be considered a bargain great buy?,207
+Cheddar Animal Benchmark,Likert,Overall Liking,How would you rate your overall liking of cheddar 674?,207
+Cheddar Animal Benchmark,CATA,Appearance,Please check all the words or phrases that describe the appearance of cheddar 674?,207
+Cheddar Animal Benchmark,Likert,Appearance,How would you rate the appearance of cheddar 674?,207
+,Multiple Choice,,Which sources have been most influential in forming your opinions about dairyfree cheddar?,207
+,Multiple Choice,,Which of these names are most appealing?.1,207
+Cheddar Animal Benchmark,CATA,Flavor,Please check all the words or phrases that describe the flavor of cheddar 674?,207
+Cheddar Plant-based Leader,Likert,Appearance,How would you rate the appearance of cheddar 923?,103
+Cheddar Animal Benchmark,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of cheddar 674?,207
+,Multiple Choice,van-westendorp,At what price would a 8oz package of dairyfree cheddar start to become expensive but youd still purchase it?,207
+Cheddar Plant-based Leader,Likert,Overall Liking,How would you rate your overall liking of cheddar 923?,103
+Cheddar Plant-based Leader,Likert,Similarity,How similar is cheddar 923 to dairybased cheddar?,103
+Cheddar Plant-based Leader,CATA,Appearance,Please check all the words or phrases that describe the appearance of cheddar 923?,103
+Cheddar Plant-based Leader,Likert,Flavor,How would you rate the flavor of cheddar 923?,103
+Cheddar Plant-based Leader,CATA,Flavor,Please check all the words or phrases that describe the flavor of cheddar 923?,103
+Cheddar Plant-based Leader,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of cheddar 923?,103
+Cheddar Plant-based Leader,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of cheddar 923?,103
+Cheddar Animal Benchmark,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase cheddar 674?,207
+Cheddar Plant-based Leader,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase cheddar 923?,103
+Cheddar Animal Benchmark,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of cheddar 674?,207
+,Demographic,Cream Cheese Consumption Frequency,How often do you eat cream cheese of any kind?,201
+Cream Cheese Animal Benchmark,Likert,Similarity,How similar is cream cheese 334 to dairybased cream cheese?,201
+Cream Cheese Plant-based Leader,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase cream cheese 413?,100
+Cream Cheese Animal Benchmark,CATA,Appearance,Please check all the words or phrases that describe the appearance of cream cheese 334?,201
+Cream Cheese Plant-based Leader,Likert,Overall Liking,How would you rate your overall liking of cream cheese 413?,100
+Cream Cheese Plant-based Leader,Likert,Similarity,How similar is cream cheese 413 to dairybased cream cheese?,100
+Cream Cheese Plant-based Leader,Likert,Appearance,How would you rate the appearance of cream cheese 413?,100
+Cream Cheese Plant-based Leader,CATA,Appearance,Please check all the words or phrases that describe the appearance of cream cheese 413?,100
+Cream Cheese Plant-based Leader,Likert,Flavor,How would you rate the flavor of cream cheese 413?,100
+Cream Cheese Plant-based Leader,CATA,Flavor,Please check all the words or phrases that describe the flavor of cream cheese 413?,100
+Cream Cheese Plant-based Leader,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of cream cheese 413?,100
+Cream Cheese Plant-based Leader,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of cream cheese 413?,100
+Cream Cheese Animal Benchmark,Likert,Overall Liking,How would you rate your overall liking of cream cheese 334?,201
+Cream Cheese Animal Benchmark,Likert,Appearance,How would you rate the appearance of cream cheese 334?,201
+Cream Cheese Animal Benchmark,Likert,Flavor,How would you rate the flavor of cream cheese 334?,201
+Cream Cheese Animal Benchmark,CATA,Flavor,Please check all the words or phrases that describe the flavor of cream cheese 334?,201
+Cream Cheese Animal Benchmark,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of cream cheese 334?,201
+,Multiple Choice,van-westendorp,At what price would a 8oz tub package of dairyfree cream cheese start to become expensive but youd still purchase it?,201
+,Multiple Choice,van-westendorp,At what price would a 8oz tub package of dairyfree cream cheese start to be considered a bargain great buy?,201
+,Demographic,Sources of Information,Which sources have been most influential in forming your opinions about dairyfree cream cheese?,201
+,Multiple Choice,,Which of these names are most appealing?.2,201
+Cream Cheese Animal Benchmark,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase cream cheese 334?,201
+Cream Cheese Animal Benchmark,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of cream cheese 334?,201
+Creamer Animal Benchmark,Likert,Flavor,How would you rate the flavor of creamer 674?,209
+Creamer Plant-based Leader,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of creamer 491?,96
+Creamer Animal Benchmark,Likert,Appearance,How would you rate the appearance of creamer 674?,209
+Creamer Animal Benchmark,Likert,Overall Liking,How would you rate your overall liking of creamer 674?,209
+Creamer Animal Benchmark,Likert,Similarity,How similar is creamer 674 to dairybased creamer?,209
+Creamer Animal Benchmark,CATA,Appearance,Please check all the words or phrases that describe the appearance of creamer 674?,209
+Creamer Animal Benchmark,CATA,Flavor,Please check all the words or phrases that describe the flavor of creamer 674?,209
+Creamer Animal Benchmark,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of creamer 674?,209
+Creamer Animal Benchmark,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase creamer 674?,209
+Creamer Plant-based Leader,Likert,Overall Liking,How would you rate your overall liking of creamer 491?,96
+Creamer Plant-based Leader,Likert,Similarity,How similar is creamer 491 to dairybased creamer?,96
+Creamer Plant-based Leader,Likert,Appearance,How would you rate the appearance of creamer 491?,96
+Creamer Plant-based Leader,CATA,Appearance,Please check all the words or phrases that describe the appearance of creamer 491?,96
+Creamer Plant-based Leader,Likert,Flavor,How would you rate the flavor of creamer 491?,96
+Creamer Plant-based Leader,CATA,Flavor,Please check all the words or phrases that describe the flavor of creamer 491?,96
+Creamer Plant-based Leader,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of creamer 491?,96
+,Demographic,Influential Sources,Which sources have been most influential in forming your opinions about dairyfree creamer?,209
+,Multiple Choice,Conceptual,Which of these names are most appealing?,209
+,Multiple Choice,van-westendorp,At what price would a 32oz package of dairyfree creamer start to be considered a bargain great buydairybased creamer {sampleCode}?,209
+,Multiple Choice,van-westendorp,At what price would a 32oz package of dairyfree creamer start to become expensive but youd still purchase itdairybased creamer {sampleCode}?,209
+Creamer Plant-based Leader,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase creamer 491?,96
+Creamer Animal Benchmark,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of creamer 674?,209
+,Demographic,Coffee Creamer Consumption Frequency,How often do you use coffee creamer of any kind?,209
+Ice Cream Plant-based Leader,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase ice cream 491?,103
+,Multiple Choice,van-westendorp,At what price would a 14oz package of dairyfree ice cream start to become expensive but youd still purchase it?,209
+Ice Cream Animal Benchmark,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of ice cream 413?,209
+Ice Cream Animal Benchmark,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase ice cream 413?,209
+Ice Cream Plant-based Leader,Likert,Flavor,How would you rate the flavor of ice cream 491?,103
+Ice Cream Plant-based Leader,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of ice cream 491?,103
+,Multiple Choice,van-westendorp,At what price would a 14oz package of dairyfree ice cream start to be considered a bargain great buy?,209
+,Conceptual,Appealing Names,Which of these names are most appealing?,209
+Ice Cream Animal Benchmark,Likert,Overall Liking,How would you rate your overall liking of ice cream 413?,209
+Ice Cream Animal Benchmark,Likert,Similarity,How similar is ice cream 413 to dairybased ice cream?,209
+Ice Cream Animal Benchmark,Likert,Appearance,How would you rate the appearance of ice cream 413?,209
+Ice Cream Animal Benchmark,CATA,Appearance,Please check all the words or phrases that describe the appearance of ice cream 413?,209
+Ice Cream Animal Benchmark,Likert,Flavor,How would you rate the flavor of ice cream 413?,209
+Ice Cream Animal Benchmark,CATA,Flavor,Please check all the words or phrases that describe the flavor of ice cream 413?,209
+Ice Cream Animal Benchmark,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of ice cream 413?,209
+,Conceptual,Influential Sources,Which sources have been most influential in forming your opinions about dairyfree ice cream?,209
+Ice Cream Plant-based Leader,Likert,Overall Liking,How would you rate your overall liking of ice cream 491?,103
+Ice Cream Plant-based Leader,Likert,Similarity,How similar is ice cream 491 to dairybased ice cream?,103
+Ice Cream Plant-based Leader,Likert,Appearance,How would you rate the appearance of ice cream 491?,103
+Ice Cream Plant-based Leader,CATA,Appearance,Please check all the words or phrases that describe the appearance of ice cream 491?,103
+Ice Cream Plant-based Leader,CATA,Flavor,Please check all the words or phrases that describe the flavor of ice cream 491?,103
+Ice Cream Plant-based Leader,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of ice cream 491?,103
+,Demographic,Ice Cream Consumption Frequency,How often do you eat ice cream of any kind?,209
+,Demographic,Butter Consumption Frequency,How often do you eat butter of any kind?,203
+,Multiple Choice,van-westendorp,At what price would a 64oz package of dairyfree milk start to be considered a bargain great buy?,418
+Milk Animal Benchmark,Likert,Flavor,How would you rate the flavor of milk 182?,418
+Milk Plant-based Leader,Likert,Flavor,How would you rate the flavor of milk 674?,102
+Milk Animal Benchmark,Likert,Overall Liking,How would you rate your overall liking of milk 182?,418
+,Multiple Choice,van-westendorp,At what price would a 64oz package of dairyfree milk start to become expensive but youd still purchase it?,418
+Milk Plant-based Leader,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of milk 674?,102
+,Multiple Choice,,Please compare dairyfree milk with dairybased milk on the following attributes based on your current perception expectations?,0
+Milk Animal Benchmark,Likert,Similarity,How similar is milk 182 to dairybased milk?,418
+Milk Animal Benchmark,Likert,Appearance,How would you rate the appearance of milk 182?,418
+Milk Plant-based Leader,Likert,Similarity,How similar is milk 674 to dairybased milk?,102
+Milk Animal Benchmark,CATA,Flavor,Please check all the words or phrases that describe the flavor of milk 182?,418
+,Multiple Choice,,Which sources have been most influential in forming your opinions about dairyfree milk?.1,418
+,Multiple Choice,,Which of these names are most appealing?.3,418
+Milk Animal Benchmark,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of milk 182?,418
+Milk Animal Benchmark,CATA,Appearance,Please check all the words or phrases that describe the appearance of milk 182?,418
+Milk Plant-based Leader,Likert,Overall Liking,How would you rate your overall liking of milk 674?,102
+Milk Plant-based Leader,Likert,Appearance,How would you rate the appearance of milk 674?,102
+Milk Plant-based Leader,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of milk 674?,102
+Milk Plant-based Leader,CATA,Appearance,Please check all the words or phrases that describe the appearance of milk 674?,102
+Milk Plant-based Leader,CATA,Flavor,Please check all the words or phrases that describe the flavor of milk 674?,102
+Milk Plant-based Leader,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase milk 674?,102
+Milk Animal Benchmark,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase milk 182?,418
+Milk Animal Benchmark,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of milk 182?,418
+,Demographic,Milk Consumption Frequency,How often do you drink milk of any kind?,422
+Sour Cream Animal Benchmark,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of sour cream 923?,104
+Sour Cream Plant-based Leader,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase sour cream 491?,104
+,Multiple Choice,van-westendorp,At what price would a 16oz package of dairyfree sour cream start to become expensive but youd still purchase it?,104
+,Multiple Choice,van-westendorp,At what price would a 16oz package of dairyfree sour cream start to be considered a bargain great buy?,104
+Sour Cream Animal Benchmark,Likert,Flavor,How would you rate the flavor of sour cream 923?,104
+Sour Cream Plant-based Leader,Likert,Overall Liking,How would you rate your overall liking of sour cream 491?,104
+Sour Cream Plant-based Leader,Likert,Similarity,How similar is sour cream 491 to dairybased sour cream?,104
+Sour Cream Plant-based Leader,Likert,Appearance,How would you rate the appearance of sour cream 491?,104
+Sour Cream Plant-based Leader,CATA,Appearance,Please check all the words or phrases that describe the appearance of sour cream 491?,104
+Sour Cream Plant-based Leader,Likert,Flavor,How would you rate the flavor of sour cream 491?,104
+Sour Cream Plant-based Leader,CATA,Flavor,Please check all the words or phrases that describe the flavor of sour cream 491?,104
+Sour Cream Plant-based Leader,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of sour cream 491?,104
+Sour Cream Plant-based Leader,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of sour cream 491?,104
+Sour Cream Animal Benchmark,Likert,Overall Liking,How would you rate your overall liking of sour cream 923?,104
+Sour Cream Animal Benchmark,Likert,Similarity,How similar is sour cream 923 to dairybased sour cream?,104
+Sour Cream Animal Benchmark,Likert,Appearance,How would you rate the appearance of sour cream 923?,104
+Sour Cream Animal Benchmark,CATA,Appearance,Please check all the words or phrases that describe the appearance of sour cream 923?,104
+Sour Cream Animal Benchmark,CATA,Flavor,Please check all the words or phrases that describe the flavor of sour cream 923?,104
+Sour Cream Animal Benchmark,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of sour cream 923?,104
+Sour Cream Animal Benchmark,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase sour cream 923?,104
+,Multiple Choice,,Which sources have been most influential in forming your opinions about dairyfree sour cream?,104
+,Multiple Choice,,Which of these names are most appealing?.4,104
+Butter Plant-based Leader,Likert,Flavor,How would you rate the flavor of butter 257?,102
+Butter Plant-based Leader,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of butter 257?,102
+Butter Animal Benchmark,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of butter 859?,203
+Butter Plant-based Leader,Likert,Similarity,How similar is butter 257 to dairybased butter?,102
+Butter Animal Benchmark,Likert,Similarity,How similar is butter 859 to dairybased butter?,203
+Butter Plant-based Leader,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase butter 257?,102
+Butter Animal Benchmark,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase butter 859?,203
+,Multiple Choice,van-westendorp,At what price would a 4 sticks 1lb package of dairyfree butter start to become expensive but youd still purchase it?,203
+Butter Plant-based Leader,CATA,Flavor,Please check all the words or phrases that describe the flavor of butter 257?,102
+Butter Plant-based Leader,Likert,Overall Liking,How would you rate your overall liking of butter 257?,102
+Butter Plant-based Leader,Likert,Appearance,How would you rate the appearance of butter 257?,102
+Butter Animal Benchmark,Likert,Overall Liking,How would you rate your overall liking of butter 859?,203
+Butter Animal Benchmark,Likert,Appearance,How would you rate the appearance of butter 859?,203
+,Multiple Choice,van-westendorp,At what price would a 4 sticks 1lb package of dairyfree butter start to be considered a bargain great buy?,203
+Butter Plant-based Leader,CATA,Appearance,Please check all the words or phrases that describe the appearance of butter 257?,102
+Butter Plant-based Leader,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of butter 257?,102
+Butter Animal Benchmark,CATA,Appearance,Please check all the words or phrases that describe the appearance of butter 859?,203
+Butter Animal Benchmark,Likert,Flavor,How would you rate the flavor of butter 859?,203
+Butter Animal Benchmark,CATA,Flavor,Please check all the words or phrases that describe the flavor of butter 859?,203
+Butter Animal Benchmark,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of butter 859?,203
+,Demographic,Sour Cream Consumption Frequency,How often do you eat sour cream of any kind?,104
+Mozzarella Plant-based Leader,CATA,Appearance,Please check all the words or phrases that describe the appearance of mozzarella 413?,114
+Mozzarella Plant-based Leader,Likert,Flavor,How would you rate the flavor of mozzarella 413?,114
+Mozzarella Animal Benchmark,Likert,Appearance,How would you rate the appearance of mozzarella 548?,216
+Mozzarella Plant-based Leader,Likert,Overall Liking,How would you rate your overall liking of mozzarella 413?,114
+Mozzarella Plant-based Leader,Likert,Appearance,How would you rate the appearance of mozzarella 413?,114
+Mozzarella Plant-based Leader,CATA,Flavor,Please check all the words or phrases that describe the flavor of mozzarella 413?,114
+Mozzarella Plant-based Leader,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of mozzarella 413?,114
+Mozzarella Animal Benchmark,CATA,Appearance,Please check all the words or phrases that describe the appearance of mozzarella 548?,216
+Mozzarella Animal Benchmark,Likert,Flavor,How would you rate the flavor of mozzarella 548?,216
+Mozzarella Animal Benchmark,CATA,Flavor,Please check all the words or phrases that describe the flavor of mozzarella 548?,216
+Mozzarella Animal Benchmark,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of mozzarella 548?,216
+Mozzarella Animal Benchmark,Likert,Overall Liking,How would you rate your overall liking of mozzarella 548?,216
+Mozzarella Plant-based Leader,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of mozzarella 413?,114
+Mozzarella Animal Benchmark,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of mozzarella 548?,216
+Mozzarella Animal Benchmark,Likert,Similarity,How similar is mozzarella 548 to dairybased mozzarella?,216
+Mozzarella Plant-based Leader,Likert,Similarity,How similar is mozzarella 413 to dairybased mozzarella?,114
+Mozzarella Animal Benchmark,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase mozzarella 548?,216
+Mozzarella Plant-based Leader,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase mozzarella 413?,114
+,Multiple Choice,van-westendorp,At what price would a 8oz package of dairyfree mozzarella start to become expensive but youd still purchase it?,216
+,Multiple Choice,van-westendorp,At what price would a 8oz package of dairyfree mozzarella start to be considered a bargain great buy?,216
+,Demographic,Mozzarella Consumption Frequency,How often do you eat mozzarella cheese of any kind?,216
+Yogurt Plant-based Leader,Likert,Overall Liking,How would you rate your overall liking of greek yogurt 257?,105
+Yogurt Plant-based Leader,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of greek yogurt 257?,105
+Yogurt Animal Benchmark,Likert,Texture / Mouthfeel,How would you rate the texture mouthfeel of greek yogurt 923?,205
+Yogurt Plant-based Leader,Likert,Similarity,How similar is greek yogurt 257 to dairybased greek yogurt?,105
+Yogurt Animal Benchmark,Likert,Similarity,How similar is greek yogurt 923 to dairybased greek yogurt?,205
+Yogurt Plant-based Leader,Likert,Appearance,How would you rate the appearance of greek yogurt 257?,105
+Yogurt Plant-based Leader,CATA,Appearance,Please check all the words or phrases that describe the appearance of greek yogurt 257?,105
+Yogurt Plant-based Leader,Likert,Flavor,How would you rate the flavor of greek yogurt 257?,105
+Yogurt Plant-based Leader,CATA,Flavor,Please check all the words or phrases that describe the flavor of greek yogurt 257?,105
+Yogurt Plant-based Leader,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of greek yogurt 257?,105
+Yogurt Plant-based Leader,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase greek yogurt 257?,105
+Yogurt Animal Benchmark,Likert,Overall Liking,How would you rate your overall liking of greek yogurt 923?,205
+Yogurt Animal Benchmark,Likert,Appearance,How would you rate the appearance of greek yogurt 923?,205
+Yogurt Animal Benchmark,Likert,Purchase Intent (After NFP Reveal),Zoom in and review the nutrition panel to see what impact it has on your likelihood to buy if anyhow likely would you be to purchase greek yogurt 923?,205
+Yogurt Animal Benchmark,CATA,Appearance,Please check all the words or phrases that describe the appearance of greek yogurt 923?,205
+Yogurt Animal Benchmark,Likert,Flavor,How would you rate the flavor of greek yogurt 923?,205
+Yogurt Animal Benchmark,CATA,Flavor,Please check all the words or phrases that describe the flavor of greek yogurt 923?,205
+Yogurt Animal Benchmark,CATA,Texture Mouthfeel,Please check all the words or phrases that describe the texture mouthfeel of greek yogurt 923?,205
+,Multiple Choice,van-westendorp,At what price would a 32oz package of dairyfree greek yogurt start to become expensive but youd still purchase it?,105
+,Multiple Choice,van-westendorp,At what price would a 32oz package of dairyfree greek yogurt start to be considered a bargain great buy?,105
+,Multiple Choice,van-westendorp,At what price would a 32oz package of dairyfree greek yogurt start to become expensive but youd still purchase it?.1,100
+,Multiple Choice,van-westendorp,At what price would a 32oz package of dairyfree greek yogurt start to be considered a bargain great buy?.1,100
+,Demographic,Yogurt Consumption Frequency,How often do you eat greek yogurt of any kind?,205
